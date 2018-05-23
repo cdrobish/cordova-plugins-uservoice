@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Resgrid/cordova-plugin-uservoice.git"
+    "url": "git+https://github.com/cdrobish/cordova-plugins-uservoice"
   },
   "keywords": [
     "cordova",
